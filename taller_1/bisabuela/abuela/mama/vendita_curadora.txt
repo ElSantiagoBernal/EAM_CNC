@@ -1,0 +1,5 @@
+Nombre: Vendita
+Apellido: Curadora
+Correo: lamascuradoradelarea@gmail.com
+RH: A-
+Cm: 1.54

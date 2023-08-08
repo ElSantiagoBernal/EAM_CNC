@@ -1,0 +1,5 @@
+Nombre: Spaghetti
+Apellido: Ranchero
+Correo: tirasdespaghetti123@gmail.com
+RH: O-
+Cm: 1.73

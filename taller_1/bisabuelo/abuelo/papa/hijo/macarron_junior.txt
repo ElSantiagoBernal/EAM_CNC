@@ -1,0 +1,5 @@
+Nombre: Macarron
+Apellido: Junior
+Correo: macarron_con_carne@gmail.com
+RH: O+
+Cm: 1.69

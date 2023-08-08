@@ -1,0 +1,5 @@
+Nombre: Pepito
+Apellido: Perez
+Correo: pepitoelmejor@gmail.com
+RH: O+
+Cm: 1.70
